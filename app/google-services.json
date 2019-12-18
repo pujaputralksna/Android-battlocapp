@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326474410029",
+    "firebase_url": "https://accu-store-location.firebaseio.com",
+    "project_id": "accu-store-location",
+    "storage_bucket": "accu-store-location.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326474410029:android:fbf6b30c5c1ed29d",
+        "android_client_info": {
+          "package_name": "com.puja.accustorelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326474410029-rl9qr4ilrths1tna0252ohggp1vdmccv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puja.accustorelocation",
+            "certificate_hash": "ee2669886be1bfe46854113db71a6fff601f04d0"
+          }
+        },
+        {
+          "client_id": "326474410029-1iga0e8aqak8rs7ae2o5d695jpn48h8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-CrB7EZweuG9P8kCUtgSxLDuvhwiK2f4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326474410029-1iga0e8aqak8rs7ae2o5d695jpn48h8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

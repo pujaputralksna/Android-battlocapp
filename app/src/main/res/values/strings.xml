@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Battery</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="tentang">Aplikasi ini adalah aplikasi informasi tentang lokasi toko aki dan informasi tentang aki yang terintegrasi dengan database dan menggunakan Location Based Service. Pengguna dapat menemukan lokasi toko aki, mengetahui spesifikasi dan harga aki, serta mengetahui informasi tentang aki pada kendaraan.</string>
+</resources>
